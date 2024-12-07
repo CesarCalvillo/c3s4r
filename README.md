@@ -48,12 +48,4 @@ Soy un **ingeniero en control y automatización** con experiencia en el diseño,
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-![César's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
-
----
-
 > 💡 *"La automatización no solo mejora la eficiencia, sino que transforma el futuro."*
