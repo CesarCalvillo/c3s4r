@@ -1,0 +1,85 @@
+# Conceptos Básicos de Electrónica 📘
+
+La electrónica es la rama de la ingeniería y la física que se ocupa de la investigación, diseño y aplicación de dispositivos y sistemas electrónicos. A continuación, se presentan algunos de los conceptos más básicos y fundamentales:
+
+---
+
+## 🔌 Corriente Eléctrica
+
+La corriente eléctrica es el flujo de electrones a través de un conductor, como un cable. Se mide en **amperios (A)**.
+
+- **Corriente continua (DC):** El flujo de corriente es constante en una sola dirección.
+- **Corriente alterna (AC):** El flujo de corriente cambia de dirección periódicamente.
+
+---
+
+## ⚡ Voltaje
+
+El voltaje es la diferencia de potencial eléctrico entre dos puntos. Es la fuerza que impulsa a los electrones a moverse. Se mide en **voltios (V)**.
+
+- **Ley de Ohm:** \( V = I \cdot R \), donde:
+  - \( V \): Voltaje
+  - \( I \): Corriente
+  - \( R \): Resistencia
+
+---
+
+## 🔋 Resistencia
+
+La resistencia es la oposición al flujo de corriente en un circuito. Se mide en **ohmios (Ω)**. Los resistores son componentes diseñados para ofrecer resistencia específica.
+
+- **Códigos de colores en resistencias:** Un estándar para identificar el valor de las resistencias.
+
+---
+
+## 🧰 Componentes Electrónicos
+
+### Resistor
+- Limita el flujo de corriente.
+
+### Capacitor
+- Almacena energía en forma de campo eléctrico.
+- Se mide en **faradios (F)**.
+
+### Diodo
+- Permite el flujo de corriente en una sola dirección.
+
+### Transistor
+- Funciona como un interruptor o amplificador de corriente.
+
+### LED (Light Emitting Diode)
+- Un diodo que emite luz cuando pasa corriente a través de él.
+
+---
+
+## 🔄 Circuitos Eléctricos
+
+Un circuito es una red de componentes electrónicos interconectados para cumplir una función específica.
+
+- **Serie:** Los componentes están conectados uno tras otro. La corriente es la misma en todos.
+- **Paralelo:** Los componentes están conectados en ramas independientes. El voltaje es el mismo en todos.
+
+---
+
+## 🧮 Leyes Fundamentales
+
+### Ley de Ohm
+- Relaciona el voltaje, la corriente y la resistencia: \( V = I \cdot R \).
+
+### Leyes de Kirchhoff
+1. **Ley de Corrientes (KCL):** La suma de las corrientes que entran en un nodo es igual a la suma de las corrientes que salen.
+2. **Ley de Voltajes (KVL):** La suma de los voltajes alrededor de un lazo cerrado es cero.
+
+---
+
+## 🛠️ Herramientas Básicas
+
+- **Multímetro:** Mide voltaje, corriente y resistencia.
+- **Protoboard:** Permite construir circuitos sin necesidad de soldar.
+- **Osciloscopio:** Visualiza señales eléctricas en el tiempo.
+
+---
+
+¡La electrónica es un mundo fascinante lleno de posibilidades! Aprender estos conceptos básicos es el primer paso hacia el diseño y construcción de tus propios dispositivos electrónicos. 🚀
+
+> 💡 *"Entender la electrónica es como tener la llave para construir el futuro."*
