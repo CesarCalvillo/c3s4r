@@ -33,7 +33,7 @@ Los contactos representan las condiciones o entradas que activan un circuito en 
    El contacto interrumpe el flujo cuando se activa.
 
 ---
-![Ejemplo de contactos NO & NC](images/no & nc contacts.jpg)
+![Ejemplo de contactos NO & NC](images/contacts.jpg)
 
 ## 🔄 Bobinas
 
