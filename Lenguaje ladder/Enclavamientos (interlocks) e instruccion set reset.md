@@ -75,7 +75,7 @@ Las instrucciones **Set** y **Reset** son usadas para establecer o reiniciar el 
 
 ---
 
-
+![set-Reset-enclavamiento](Lenguaje ladder/images/set-reset.jpg)
 
 Ambas técnicas son fundamentales en el diseño de sistemas Ladder y ofrecen flexibilidad para cubrir una amplia variedad de aplicaciones. ¡Dominar su uso es esencial para cualquier programador de PLC! 🚀
 
