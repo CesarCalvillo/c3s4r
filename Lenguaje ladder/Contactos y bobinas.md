@@ -1,7 +1,8 @@
 # Contactos y Bobinas en Lenguaje Ladder 🔧
 
 El lenguaje **Ladder** o diagrama de escalera es un método gráfico de programación usado principalmente en sistemas de control con PLC (Controladores Lógicos Programables). Dos de los elementos más comunes en este lenguaje son los **contactos** y las **bobinas**, fundamentales para representar el comportamiento lógico de un sistema.
-
+---
+Ejemplo en TIA PORTAL al final + archivo adjunto en TIA PORTAL V16
 ---
 
 ## 🤝 Contactos
@@ -33,7 +34,6 @@ Los contactos representan las condiciones o entradas que activan un circuito en 
    El contacto interrumpe el flujo cuando se activa.
 
 ---
-![Ejemplo de contactos NO & NC](images/contacts.jpg)
 
 ## 🔄 Bobinas
 
@@ -90,6 +90,7 @@ Un sistema básico en Ladder puede representarse de la siguiente forma:
 - El motor se detiene cuando se presiona el botón de parada (Stop Button).
 
 ---
+![Ejemplo de contactos NO & NC](images/contacts.jpg)
 
 El lenguaje Ladder es una herramienta poderosa y accesible para diseñar y entender sistemas lógicos en la automatización industrial. ¡Aprender su lógica básica es clave para trabajar con PLCs! 🚀
 
