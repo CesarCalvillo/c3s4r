@@ -75,7 +75,12 @@ Las instrucciones **Set** y **Reset** son usadas para establecer o reiniciar el 
 
 ---
 
-![set-Reset-enclavamiento](Lenguaje ladder/images/set-reset.jpg)
+![set-Reset-enclavamiento](images/set-reset.jpg)
+
+
+Se adjunto archivo (.zap16) del codigo solo hay que descargarlo y abrirlo con TIA PORTAL V16 o superior.
+
+---
 
 Ambas técnicas son fundamentales en el diseño de sistemas Ladder y ofrecen flexibilidad para cubrir una amplia variedad de aplicaciones. ¡Dominar su uso es esencial para cualquier programador de PLC! 🚀
 
