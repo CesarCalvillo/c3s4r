@@ -92,6 +92,10 @@ Un sistema básico en Ladder puede representarse de la siguiente forma:
 ---
 ![Ejemplo de contactos NO & NC](images/contacts.jpg)
 
+
+Se adjunto archivo (.zap16) del codigo  solo hay que descargarlo y abrirlo con TIA PORTAL V16 o superior.
+
+---
 El lenguaje Ladder es una herramienta poderosa y accesible para diseñar y entender sistemas lógicos en la automatización industrial. ¡Aprender su lógica básica es clave para trabajar con PLCs! 🚀
 
 > 💡 *"Un buen diseño en Ladder es claro, eficiente y fácil de mantener."*
