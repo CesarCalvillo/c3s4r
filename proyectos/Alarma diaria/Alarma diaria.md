@@ -22,3 +22,6 @@ Se utilizo el siguiente hardware y software:
 # Tablero de pruebas
 
 ![tablero de pruebas](images/20250201_153137.jpg)
+
+##
+Adjunte el archivo del proyecto
