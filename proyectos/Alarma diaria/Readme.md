@@ -27,7 +27,8 @@ Se utilizo el siguiente hardware y software:
 #Tags del plc y DB's empleados
 
 
-![DB alarma](images/20250201_153137.jpg)
+![DB alarma](images/Screenshot 2025-02-03 125051.png)
+
 
 
 
