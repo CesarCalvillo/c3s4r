@@ -37,9 +37,10 @@ Se utilizo el siguiente hardware y software:
 
 # Logica del proyecto en lenguaje escalera
 
-![]()
-![]()
-![]()
+![logica1](images/logica1)
+
+![logica2](images/logica2)
+
 
 
 ##
