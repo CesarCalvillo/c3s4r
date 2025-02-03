@@ -33,10 +33,13 @@ Se utilizo el siguiente hardware y software:
 
 ![tags del plc](images/131650.png)
 
+##
 
+# Logica del proyecto en lenguaje escalera
 
-
-
+![]()
+![]()
+![]()
 
 
 ##
