@@ -29,7 +29,7 @@ Se utilizo el siguiente hardware y software:
 #Tags del plc y DB's empleados
 
 
-![Tags del plc y DB's empleados](datablock.jpg)
+![Tags del plc y DB's empleados](images/datablock.jpg)
 
 
 
