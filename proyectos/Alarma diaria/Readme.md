@@ -37,9 +37,9 @@ Se utilizo el siguiente hardware y software:
 
 # Logica del proyecto en lenguaje escalera
 
-![logica1](images/logica1)
+![logica1](images/logica1.png)
 
-![logica2](images/logica2)
+![logica2](images/logica2.png)
 
 
 
