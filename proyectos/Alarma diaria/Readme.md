@@ -24,10 +24,13 @@ Se utilizo el siguiente hardware y software:
 ![tablero de pruebas](images/20250201_153137.jpg)
 
 ##
+
+
 #Tags del plc y DB's empleados
 
 
-![DB alarma](datablock.jpg)
+![Tags del plc y DB's empleados](datablock.jpg)
+
 
 
 
