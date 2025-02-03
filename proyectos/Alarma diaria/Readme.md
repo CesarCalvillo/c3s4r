@@ -1,7 +1,7 @@
 # Alarma diaria que desactiva un dispositivo 🔧
 
 
-El proposito de este proyecto es deshabilitar un dispositivo que este siempre conectado y que se deshabilito solo mientras la alarma se encienda.
+El proposito de este proyecto es deshabilitar un dispositivo que este siempre conectado y que se deshabilite solo mientras la alarma este activa.
 Se utilizo el siguiente hardware y software:
 
 ##
@@ -22,6 +22,15 @@ Se utilizo el siguiente hardware y software:
 # Tablero de pruebas
 
 ![tablero de pruebas](images/20250201_153137.jpg)
+
+##
+#Tags del plc y DB's empleados
+
+
+![DB alarma](images/20250201_153137.jpg)
+
+
+
 
 ##
 Adjunte el archivo del proyecto
