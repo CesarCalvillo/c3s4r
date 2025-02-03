@@ -31,7 +31,7 @@ Se utilizo el siguiente hardware y software:
 
 ![Tags del plc y DB's empleados](images/datablock.jpg)
 
-
+![tags del plc](images/131650.png)
 
 
 
